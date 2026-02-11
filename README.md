@@ -85,3 +85,5 @@ result = workflow.invoke({
 ```
 
 Execute all cells
+
+**Note**: This project was created in collaboration with Allen Zhang (Imperial College London) and Burak Klinic (University of Bristol).
